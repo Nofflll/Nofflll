@@ -6,9 +6,11 @@
 <h1 align="center">Noffll here 🌲🌧️</h1>
 <h3 align="center"><em>Engineer, Developer & AI Builder</em></h3>
 
+---
 
 ## 🌑 About Me
 
+```python
 class Noffll:
     def __init__(self):
         self.name = "Никита"
