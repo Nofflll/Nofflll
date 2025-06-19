@@ -19,7 +19,7 @@ class Noffll:
         self.specialization = ["AI", "Aerodynamics", "Tool Development"]
         self.languages = ["Python", "C++"]
         self.traits = ["Precise", "Analytical", "Independent"]
-
+```
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
