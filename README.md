@@ -1,11 +1,7 @@
-
-<!-- MasterHead -->
 <a href="">
   <img src="https://github.com/Nofflll/media/blob/main/chillhop-white-oak-2.gif" alt="GIF" style="width:auto; height:auto"/>
 </a>
 
-
-<!-- Greeting -->
 </h1>
 <h1 align="center">15496 🤠 I'm Nikita Puchkov</h1>
 
@@ -13,20 +9,16 @@
 While I don’t have a formal degree in Computer Science, I’m actively self-educating, exploring different areas of the IT field, and gaining hands-on experience through personal projects.
 I’m especially passionate about AI/ML and aim to specialize in these areas as my long-term career goal.</h4>
 
-
 <div align="center">
 <div style="display: flex; justify-content: center; gap: 10px;">
-<!-- Profile Views -->
   <a href="https://github.com/Nofflll" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Nofflll&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
        alt="Profile Views Badge" /></a>
 
-<!-- Total Stars with GitHub Logo -->
   <a href="https://github.com/Nofflll?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Total Stars" title="Total stars on GitHub"
        src="https://img.shields.io/github/stars/Nofflll?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
-<!-- Followers with GitHub Logo -->
   <a href="https://github.com/Nofflll?tab=followers" target="_blank">
     <img alt="Followers" title="Follow me on GitHub"
        src="https://img.shields.io/github/followers/Nofflll?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
@@ -34,9 +26,6 @@ I’m especially passionate about AI/ML and aim to specialize in these areas as 
 
 </div>
 
-
-
-<!-- about me -->
 <h3 align="left">💫 About Me</h3>
 <h4 align="left">>
 🌱 I'm currently focused on improving my programming skills and building real-world projects.</br>
@@ -57,48 +46,29 @@ I’m especially passionate about AI/ML and aim to specialize in these areas as 
 </div>
 <br/>
 
-
-
-
-<!-- git stat-->
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
   <img width="435" src="https://github-readme-stats.vercel.app/api?username=Nofflll&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nofflll&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
 </div>
-
 <br/><br/>
 
-
-
-<!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
-
 <br/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=anaconda,autocad,bash,cpp,cmake" /><br>
     <img src="https://skillicons.dev/icons?i=docker,fastapi,flask,git,html,matlab" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman,py,pytorch" /><br>
     <img src="https://skillicons.dev/icons?i=qt,sqlite,sklearn,selenium,tensorflow" /><br>
 </div>
-
 <br/>
 
-
-
-
-<!-- top repo and teck stack-->
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     </a>
 </div>
 
-  
   <h3>💻 Tech Stack:</h3>
      <br/>
   <div align="center">
@@ -123,22 +93,15 @@ I’m especially passionate about AI/ML and aim to specialize in these areas as 
   <div align="center"> 
   </div>
 
-
-
 <h3>⭐ Top Contributed Repo!</h3>
        <br/>
       <img src="https://github-contributor-stats.vercel.app/api?username=Noffll&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
       <br/>
 
-
-
-
-<!-- support -->
 <h3 align="center">Support Me 💰 </h3>
 
 <p align="center">
   <a href="https://buymeacoffee.com/nikitapuch4"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Nofflll" /></a>
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
