@@ -1,7 +1,7 @@
 
 <!-- MasterHead -->
 <a href="">
-  <img src="https://github.com/Nofflll/media/blob/main/hacking-computer-screen-2.gif" alt="GIF" style="width:auto; height:auto"/>
+  <img src="" alt="GIF" style="width:auto; height:auto"/>
 </a>
 
 
@@ -147,5 +147,5 @@ I’m especially passionate about AI/ML and aim to specialize in these areas as 
 
 
 <!-- ending-->
-<a href=""><img src="" alt="GIF" style="width:auto; height:auto"/></a>
+<a href=""><img src="https://github.com/Nofflll/media/blob/main/hacking-computer-screen-2.gif" alt="GIF" style="width:auto; height:auto"/></a>
 
