@@ -7,7 +7,7 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">15496 🙏 I'm Nikita Puchkov</h1>
+<h1 align="center">15496 🤠 I'm Nikita Puchkov</h1>
 
 <h4 align="left">🌟I’m currently building my path into Machine Learning and Artificial Intelligence, focusing on improving my programming skills and working on open-source projects.
 While I don’t have a formal degree in Computer Science, I’m actively self-educating, exploring different areas of the IT field, and gaining hands-on experience through personal projects.
