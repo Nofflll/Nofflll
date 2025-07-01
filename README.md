@@ -1,7 +1,7 @@
 
 <!-- MasterHead -->
 <a href="">
-  <img src="https://github.com/Nofflll/media/blob/main/hacking-computer-screen.gif" alt="GIF" style="width:auto; height:auto"/>
+  <img src="https://github.com/Nofflll/media/blob/main/hacking-computer-screen-2.gif" alt="GIF" style="width:auto; height:auto"/>
 </a>
 
 
