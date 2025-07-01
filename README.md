@@ -49,7 +49,7 @@ I’m especially passionate about AI/ML and aim to specialize in these areas as 
 
   <h3>🧲 Connect me :</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="nikitapuchkov2017@gmail.com">
+  <a href="mailto:nikitapuchkov2017@gmail.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
   
   <a href="https://www.linkedin.com/in/nikita-puchkov-598728370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdjvUWDVQTSOj3D6PMzYYsQ%3D%3D" target="_blank">
