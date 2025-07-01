@@ -1,96 +1,156 @@
 
-<!-- Banner -->
+<!-- MasterHead -->
+<a href="">
+  <img src="https://github.com/Nofflll/media/blob/main/hacking-computer-screen.gif" alt="GIF" style="width:auto; height:auto"/>
+</a>
+
+
+
+<h1 align="left">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>
+
+
+<!-- Greeting -->
+</h1>
+<h1 align="center">15496 🙏 I'm Nikita Puchkov</h1>
+
+<h4 align="left">🌟I’m currently building my path into Machine Learning and Artificial Intelligence, focusing on improving my programming skills and working on open-source projects.
+While I don’t have a formal degree in Computer Science, I’m actively self-educating, exploring different areas of the IT field, and gaining hands-on experience through personal projects.
+I’m especially passionate about AI/ML and aim to specialize in these areas as my long-term career goal.</h4>
+
+
+<div align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
+<!-- Profile Views -->
+  <a href="https://github.com/Nofflll" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Nofflll&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
+
+<!-- Total Stars with GitHub Logo -->
+  <a href="https://github.com/Nofflll?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/Nofflll?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+<!-- Followers with GitHub Logo -->
+  <a href="https://github.com/Nofflll?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/Nofflll?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
+</div>
+
+
+
+<!-- about me -->
+<h3 align="left">💫 About Me</h3>
+<h4 align="left">>
+🌱 I'm currently focused on improving my programming skills and building real-world projects.</br>
+🔭 I've worked with .NET Framework and have experience with the Model-View-Controller (MVC) pattern.</br>
+💬 I'm gaining proficiency in programming languages like Python and SQL.</br>
+⚡ I'm deeply interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, and Blockchain development.</br>
+✨ I'm detail-oriented and always strive for clean, well-structured, and meaningful work.</h4>
+<div align="left">  
+
+
+  <h3>🧲 Connect me :</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="nikitapuchkov2017@gmail.com">
+  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
+  
+  <a href="https://www.linkedin.com/in/nikita-puchkov-598728370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdjvUWDVQTSOj3D6PMzYYsQ%3D%3D" target="_blank">
+    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
+</div>
+<br/>
+
+
+
+
+<!-- git stat-->
+<h3 align="center">🌱 Github Status</h3>
+<br>
+<div align="center">
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=Nofflll&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nofflll&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+</div>
+
+<br/><br/>
+
+
+
+<!-- lang-->
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,autocad,bash,cpp,cmake" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,fastapi,flask,git,html,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman,py,pytorch" /><br>
+    <img src="https://skillicons.dev/icons?i=qt,sqlite,sklearn,selenium,tensorflow" /><br>
+</div>
+
+<br/>
+
+
+
+
+<!-- top repo and teck stack-->
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    </a>
+</div>
+
+  
+  <h3>💻 Tech Stack:</h3>
+     <br/>
+  <div align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt=sqlte />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" alt="pytest" />
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" atl="QT" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" atl="numpy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  </div>
+  <div align="center"> 
+  </div>
+
+
+
+<h3>⭐ Top Contributed Repo!</h3>
+       <br/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=Noffll&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <br/>
+
+
+
+
+<!-- support -->
+<h3 align="center">Support Me 💰 </h3>
+
 <p align="center">
-  <img src="https://i.imgur.com/nEVq3G9.jpg" alt="Cozy Forest Banner" width="100%"/>
-</p>
+  <a href="https://buymeacoffee.com/nikitapuch4"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Nofflll" /></a>
 
-<h1 align="center">👋 Nikita aka Noffll</h1>
-<h3 align="center">Engineer Programmer | AI & Aerodynamics Enthusiast</h3>
 
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
+</h1>
 
-## 🌲 About Me
 
-```python
-class Noffll:
-    def __init__(self):
-        self.name = "Никита"
-        self.alias = "Noffll"
-        self.origin = "Moscow Region"
-        self.role = "Engineer Programmer"
-        self.skills = ["AI/ML", "Aerodynamic Modeling", "Desktop Apps"]
-        self.languages = ["Python", "C++"]
-        self.values = ["Curiosity", "Perfection", "Independence"]
-```
 
-- 🔧 I design scientific tools and intelligent systems  
-- 🧠 My projects often bridge theory with practical implementations  
-- ✈️ Strong background in aerospace and simulation environments  
-- 🎯 I seek to merge nature's harmony with technological precision  
-- ☕ Most productive under the sound of rain and dim lighting  
+<!-- ending-->
+<a href=""><img src="" alt="GIF" style="width:auto; height:auto"/></a>
 
----
-
-## 🧠 Technology Stack
-
-| Area            | Tools / Frameworks |
-|------------------|--------------------|
-| Programming      | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| ML & AI          | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
-| Scientific       | NumPy, Matplotlib, Custom solvers |
-| Interfaces       | PyQt5, CLI apps |
-| OS & Tools       | Linux, Git, VSCode, Jupyter |
-
----
-
-## 📦 Projects
-
-- 🧪 `AeroCalc` — desktop application for aerodynamic chord and surface analysis (PyQt5)
-- 🤖 `TrainML` — minimal training pipelines for neural networks, from scratch
-- 📐 `GraphPlotter` — tool to visualize complex geometry and numeric results
-- 🌌 `LLM Architect` — custom tokenizer + model engine for future large-scale LLM
-
----
-
-## 🧭 Personal Philosophy
-
-> *"Every line of code I write is a step toward understanding the nature of intelligence — human or machine."*
-
-I believe in calm progress. In quiet forests and dim-lit rooms. Where logic meets intuition, and every function is crafted with intent.
-
----
-
-## 🖼️ Gallery
-
-<p align="center">
-  <img src="https://i.imgur.com/VU8ZrJu.png" width="300"/>
-  <img src="https://i.imgur.com/W2RXjlh.png" width="300"/>
-  <img src="https://i.imgur.com/3O7t0kH.png" width="300"/>
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://t.me/Noffll"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/Noffll"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.donationalerts.com/r/noffll"><img src="https://img.shields.io/badge/Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noffll&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noffll&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noffll&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center"><sub>Made with ☕ in a rainy forest. Updated 2025</sub></p>
